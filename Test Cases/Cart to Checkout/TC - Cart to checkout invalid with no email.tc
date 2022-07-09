@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Cart to checkout invalid with no email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4c48027-dbd0-4745-a59a-ada5153db1db</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Cart to checkout invalid with no address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e141c2b-6a4a-4797-a760-c6084b5bf689</testCaseGuid>
+</TestCaseEntity>

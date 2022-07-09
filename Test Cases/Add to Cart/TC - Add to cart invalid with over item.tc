@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Add to cart invalid with over item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>676cc2fc-07b0-41e4-9cf7-042b43c30777</testCaseGuid>
+</TestCaseEntity>

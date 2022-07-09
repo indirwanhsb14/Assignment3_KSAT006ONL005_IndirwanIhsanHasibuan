@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS - Add to Cart,,,,2022-07-09 15:03:04,2022-07-09 15:04:47,1m - 43.181s,PASSED
+,,,,,,,
+Test Cases/Add to Cart/TC - Add to cart valid,,,,2022-07-09 15:03:04,2022-07-09 15:03:39,35.356s,PASSED
+"startExistingApplication(""com.solodroid.solomerce"", STOP_ON_FAILURE)",,,,2022-07-09 15:03:04,2022-07-09 15:03:27,22.519s,PASSED
+"tap(findTestObject(""Homepage/img_Samsung""), 0)",,,,2022-07-09 15:03:27,2022-07-09 15:03:33,5.824s,PASSED
+"tap(findTestObject(""Add to Cart/btn_ADD TO CART""), 0)",,,,2022-07-09 15:03:33,2022-07-09 15:03:36,3.507s,PASSED
+"setText(findTestObject(""Add to Cart/setText_NumberofOrder""), ""1"", 0)",,,,2022-07-09 15:03:36,2022-07-09 15:03:38,1.667s,PASSED
+"tap(findTestObject(""Add to Cart/btn_AddNumberofOrder""), 0)",,,,2022-07-09 15:03:38,2022-07-09 15:03:38,0.593s,PASSED
+"tap(findTestObject(""Add to Cart/btn_BackToHomepage""), 0)",,,,2022-07-09 15:03:38,2022-07-09 15:03:39,0.757s,PASSED
+,,,,,,,
+Test Cases/Add to Cart/TC - Add to cart valid By search button,,,,2022-07-09 15:03:39,2022-07-09 15:04:05,25.316s,PASSED
+"startExistingApplication(""com.solodroid.solomerce"", STOP_ON_FAILURE)",,,,2022-07-09 15:03:41,2022-07-09 15:03:54,13.682s,PASSED
+"tap(findTestObject(""Homepage/btn_Search""), 0)",,,,2022-07-09 15:03:54,2022-07-09 15:03:56,1.558s,PASSED
+"setText(findTestObject(""Homepage/setText_Search""), ""mini panda"", 5)",,,,2022-07-09 15:03:56,2022-07-09 15:03:58,2.698s,PASSED
+"tap(findTestObject(""Homepage/img_MiniPanda""), 0)",,,,2022-07-09 15:03:58,2022-07-09 15:03:59,0.760s,PASSED
+"tap(findTestObject(""Add to Cart/btn_ADD TO CART""), 0)",,,,2022-07-09 15:03:59,2022-07-09 15:04:01,1.644s,PASSED
+"setText(findTestObject(""Add to Cart/setText_NumberofOrder""), ""3"", 0)",,,,2022-07-09 15:04:01,2022-07-09 15:04:02,1.613s,PASSED
+"tap(findTestObject(""Add to Cart/btn_AddNumberofOrder""), 0)",,,,2022-07-09 15:04:02,2022-07-09 15:04:03,0.590s,PASSED
+"tap(findTestObject(""Add to Cart/btn_BackToHomepage""), 0)",,,,2022-07-09 15:04:03,2022-07-09 15:04:04,0.708s,PASSED
+"tap(findTestObject(""Add to Cart/btn_BackToHomepage""), 0)",,,,2022-07-09 15:04:04,2022-07-09 15:04:05,0.804s,PASSED
+,,,,,,,
+Test Cases/Add to Cart/TC - Add to cart invalid with 0 item,,,,2022-07-09 15:04:05,2022-07-09 15:04:25,20.403s,PASSED
+"startExistingApplication(""com.solodroid.solomerce"", STOP_ON_FAILURE)",,,,2022-07-09 15:04:06,2022-07-09 15:04:18,12.776s,PASSED
+"tap(findTestObject(""Homepage/img_MiniDigital""), 0)",,,,2022-07-09 15:04:18,2022-07-09 15:04:20,1.563s,PASSED
+"tap(findTestObject(""Add to Cart/btn_ADD TO CART""), 0)",,,,2022-07-09 15:04:20,2022-07-09 15:04:22,2.079s,PASSED
+"setText(findTestObject(""Add to Cart/setText_NumberofOrder""), ""0"", 0)",,,,2022-07-09 15:04:22,2022-07-09 15:04:24,1.611s,PASSED
+"tap(findTestObject(""Add to Cart/btn_AddNumberofOrder""), 0)",,,,2022-07-09 15:04:24,2022-07-09 15:04:24,0.605s,PASSED
+"tap(findTestObject(""Add to Cart/btn_BackToHomepage""), 0)",,,,2022-07-09 15:04:24,2022-07-09 15:04:25,0.694s,PASSED
+,,,,,,,
+Test Cases/Add to Cart/TC - Add to cart invalid with over item,,,,2022-07-09 15:04:25,2022-07-09 15:04:47,21.728s,PASSED
+"startExistingApplication(""com.solodroid.solomerce"", STOP_ON_FAILURE)",,,,2022-07-09 15:04:26,2022-07-09 15:04:39,12.795s,PASSED
+"tap(findTestObject(""Homepage/img_AppleWatch""), 0)",,,,2022-07-09 15:04:39,2022-07-09 15:04:40,1.563s,PASSED
+"tap(findTestObject(""Add to Cart/btn_ADD TO CART""), 0)",,,,2022-07-09 15:04:40,2022-07-09 15:04:43,2.731s,PASSED
+"setText(findTestObject(""Add to Cart/setText_NumberofOrder""), ""50"", 0)",,,,2022-07-09 15:04:43,2022-07-09 15:04:45,1.611s,PASSED
+"tap(findTestObject(""Add to Cart/btn_AddNumberofOrder""), 0)",,,,2022-07-09 15:04:45,2022-07-09 15:04:45,0.605s,PASSED
+closeApplication(),,,,2022-07-09 15:04:45,2022-07-09 15:04:47,1.411s,PASSED

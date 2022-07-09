@@ -1,0 +1,2209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-09T15:03:04</date>
+  <millis>1657353784083</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/TS - Add to Cart</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">true</property>
+  <property name="retryCount">3</property>
+  <property name="name">TS - Add to Cart</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TS - Add to Cart</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:04</date>
+  <millis>1657353784098</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = 095060 - LAPTOP-BRAVO08.bfi.co.id</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">095060 - LAPTOP-BRAVO08.bfi.co.id</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:04</date>
+  <millis>1657353784098</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:04</date>
+  <millis>1657353784099</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.0.101</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">192.168.0.101</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:04</date>
+  <millis>1657353784099</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 8.3.5.208</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">8.3.5.208</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:04</date>
+  <millis>1657353784399</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Add to Cart/TC - Add to cart valid</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/Add to Cart/TC - Add to cart valid</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Add to Cart/TC - Add to cart valid</property>
+  <property name="source">C:\BTDPKatalon\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\Test Cases\Add to Cart\TC - Add to cart valid.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:04</date>
+  <millis>1657353784880</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startExistingApplication(&amp;quot;com.solodroid.solomerce&amp;quot;, STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:05</date>
+  <millis>1657353785355</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:06</date>
+  <millis>1657353786997</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Appium server started on port 50,944</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:25</date>
+  <millis>1657353805503</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumVersion = 1.22.3</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">1.22.3</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:25</date>
+  <millis>1657353805505</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;1.22.3&amp;quot;}},&amp;quot;sessionId&amp;quot;:null,&amp;quot;status&amp;quot;:0}</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:25</date>
+  <millis>1657353805535</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceId = 192.168.84.103:5555</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">192.168.84.103:5555</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:25</date>
+  <millis>1657353805537</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceName =  New Google Nexus 5 (Android 6.0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName"> New Google Nexus 5 (Android 6.0)</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:25</date>
+  <millis>1657353805539</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceModel = New Google Nexus 5</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">New Google Nexus 5</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:25</date>
+  <millis>1657353805540</millis>
+  <sequence>17</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceManufacturer = </message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:25</date>
+  <millis>1657353805541</millis>
+  <sequence>18</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:25</date>
+  <millis>1657353805541</millis>
+  <sequence>19</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOSVersion = 6.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">6.0</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:27</date>
+  <millis>1657353807396</millis>
+  <sequence>21</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting app with application ID: &amp;apos;com.solodroid.solomerce&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:338)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:332)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$1.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword$_startApplication_closure1.doCall(StartExistingApplicationKeyword.groovy:42)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword$_startApplication_closure1.doCall(StartExistingApplicationKeyword.groovy)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain.runKeyword(MobileKeywordMain.groovy:21)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword.startApplication(StartExistingApplicationKeyword.groovy:43)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword.execute(StartExistingApplicationKeyword.groovy:34)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords.startExistingApplication(MobileBuiltInKeywords.groovy:113)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords$startExistingApplication.call(Unknown Source)
+TC - Add to cart valid.run(TC - Add to cart valid:20)
+</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:27</date>
+  <millis>1657353807399</millis>
+  <sequence>22</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : startExistingApplication(&amp;quot;com.solodroid.solomerce&amp;quot;, STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:27</date>
+  <millis>1657353807400</millis>
+  <sequence>23</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Homepage/img_Samsung&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:27</date>
+  <millis>1657353807684</millis>
+  <sequence>27</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:33</date>
+  <millis>1657353813223</millis>
+  <sequence>28</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Homepage/img_Samsung&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:33</date>
+  <millis>1657353813224</millis>
+  <sequence>29</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Homepage/img_Samsung&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:33</date>
+  <millis>1657353813225</millis>
+  <sequence>30</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:33</date>
+  <millis>1657353813437</millis>
+  <sequence>34</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:36</date>
+  <millis>1657353816729</millis>
+  <sequence>35</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_ADD TO CART&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:36</date>
+  <millis>1657353816732</millis>
+  <sequence>36</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:36</date>
+  <millis>1657353816733</millis>
+  <sequence>37</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Add to Cart/setText_NumberofOrder&amp;quot;), &amp;quot;1&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:36</date>
+  <millis>1657353816961</millis>
+  <sequence>41</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:38</date>
+  <millis>1657353818398</millis>
+  <sequence>42</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;1&amp;apos; has been set to element &amp;apos;Object Repository/Add to Cart/setText_NumberofOrder&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:38</date>
+  <millis>1657353818400</millis>
+  <sequence>43</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Add to Cart/setText_NumberofOrder&amp;quot;), &amp;quot;1&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:38</date>
+  <millis>1657353818401</millis>
+  <sequence>44</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_AddNumberofOrder&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">28</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:38</date>
+  <millis>1657353818566</millis>
+  <sequence>48</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:38</date>
+  <millis>1657353818991</millis>
+  <sequence>49</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_AddNumberofOrder&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:38</date>
+  <millis>1657353818994</millis>
+  <sequence>50</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_AddNumberofOrder&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:38</date>
+  <millis>1657353818995</millis>
+  <sequence>51</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_BackToHomepage&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:39</date>
+  <millis>1657353819224</millis>
+  <sequence>55</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:39</date>
+  <millis>1657353819751</millis>
+  <sequence>56</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_BackToHomepage&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:39</date>
+  <millis>1657353819752</millis>
+  <sequence>57</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_BackToHomepage&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:39</date>
+  <millis>1657353819753</millis>
+  <sequence>58</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Add to Cart/TC - Add to cart valid</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:39</date>
+  <millis>1657353819755</millis>
+  <sequence>59</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Add to Cart/TC - Add to cart valid</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: true,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:39</date>
+  <millis>1657353819787</millis>
+  <sequence>60</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Add to Cart/TC - Add to cart valid By search button</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/Add to Cart/TC - Add to cart valid By search button</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Add to Cart/TC - Add to cart valid By search button</property>
+  <property name="source">C:\BTDPKatalon\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\Test Cases\Add to Cart\TC - Add to cart valid By search button.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:41</date>
+  <millis>1657353821039</millis>
+  <sequence>62</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startExistingApplication(&amp;quot;com.solodroid.solomerce&amp;quot;, STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:53</date>
+  <millis>1657353833289</millis>
+  <sequence>65</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumVersion = 1.22.3</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">1.22.3</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:53</date>
+  <millis>1657353833291</millis>
+  <sequence>66</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;1.22.3&amp;quot;}},&amp;quot;sessionId&amp;quot;:null,&amp;quot;status&amp;quot;:0}</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:53</date>
+  <millis>1657353833305</millis>
+  <sequence>67</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceId = 192.168.84.103:5555</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">192.168.84.103:5555</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:53</date>
+  <millis>1657353833306</millis>
+  <sequence>68</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceName =  New Google Nexus 5 (Android 6.0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName"> New Google Nexus 5 (Android 6.0)</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:53</date>
+  <millis>1657353833306</millis>
+  <sequence>69</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceModel = New Google Nexus 5</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">New Google Nexus 5</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:53</date>
+  <millis>1657353833307</millis>
+  <sequence>70</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceManufacturer = </message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:53</date>
+  <millis>1657353833307</millis>
+  <sequence>71</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:53</date>
+  <millis>1657353833308</millis>
+  <sequence>72</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOSVersion = 6.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">6.0</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:54</date>
+  <millis>1657353834719</millis>
+  <sequence>74</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting app with application ID: &amp;apos;com.solodroid.solomerce&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:338)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:332)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$1.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword$_startApplication_closure1.doCall(StartExistingApplicationKeyword.groovy:42)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword$_startApplication_closure1.doCall(StartExistingApplicationKeyword.groovy)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain.runKeyword(MobileKeywordMain.groovy:21)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword.startApplication(StartExistingApplicationKeyword.groovy:43)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword.execute(StartExistingApplicationKeyword.groovy:34)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords.startExistingApplication(MobileBuiltInKeywords.groovy:113)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords$startExistingApplication.call(Unknown Source)
+TC - Add to cart valid By search button.run(TC - Add to cart valid By search button:20)
+</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:54</date>
+  <millis>1657353834721</millis>
+  <sequence>75</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : startExistingApplication(&amp;quot;com.solodroid.solomerce&amp;quot;, STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:54</date>
+  <millis>1657353834721</millis>
+  <sequence>76</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Homepage/btn_Search&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:54</date>
+  <millis>1657353834957</millis>
+  <sequence>80</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:56</date>
+  <millis>1657353836276</millis>
+  <sequence>81</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Homepage/btn_Search&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:56</date>
+  <millis>1657353836279</millis>
+  <sequence>82</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Homepage/btn_Search&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:56</date>
+  <millis>1657353836280</millis>
+  <sequence>83</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Homepage/setText_Search&amp;quot;), &amp;quot;mini panda&amp;quot;, 5)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:58</date>
+  <millis>1657353838975</millis>
+  <sequence>87</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;mini panda&amp;apos; has been set to element &amp;apos;Object Repository/Homepage/setText_Search&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:58</date>
+  <millis>1657353838978</millis>
+  <sequence>88</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Homepage/setText_Search&amp;quot;), &amp;quot;mini panda&amp;quot;, 5)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:58</date>
+  <millis>1657353838978</millis>
+  <sequence>89</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Homepage/img_MiniPanda&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:59</date>
+  <millis>1657353839155</millis>
+  <sequence>93</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:59</date>
+  <millis>1657353839735</millis>
+  <sequence>94</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Homepage/img_MiniPanda&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:03:59</date>
+  <millis>1657353839738</millis>
+  <sequence>95</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Homepage/img_MiniPanda&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:03:59</date>
+  <millis>1657353839739</millis>
+  <sequence>96</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">28</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2022-07-09T15:03:59</date>
+  <millis>1657353839946</millis>
+  <sequence>100</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:01</date>
+  <millis>1657353841382</millis>
+  <sequence>101</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_ADD TO CART&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:01</date>
+  <millis>1657353841383</millis>
+  <sequence>102</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:01</date>
+  <millis>1657353841384</millis>
+  <sequence>103</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Add to Cart/setText_NumberofOrder&amp;quot;), &amp;quot;3&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:01</date>
+  <millis>1657353841581</millis>
+  <sequence>107</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:02</date>
+  <millis>1657353842996</millis>
+  <sequence>108</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;3&amp;apos; has been set to element &amp;apos;Object Repository/Add to Cart/setText_NumberofOrder&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:02</date>
+  <millis>1657353842997</millis>
+  <sequence>109</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Add to Cart/setText_NumberofOrder&amp;quot;), &amp;quot;3&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:02</date>
+  <millis>1657353842997</millis>
+  <sequence>110</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_AddNumberofOrder&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">32</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:03</date>
+  <millis>1657353843157</millis>
+  <sequence>114</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:03</date>
+  <millis>1657353843586</millis>
+  <sequence>115</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_AddNumberofOrder&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:03</date>
+  <millis>1657353843587</millis>
+  <sequence>116</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_AddNumberofOrder&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:03</date>
+  <millis>1657353843588</millis>
+  <sequence>117</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_BackToHomepage&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">34</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:03</date>
+  <millis>1657353843778</millis>
+  <sequence>121</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:04</date>
+  <millis>1657353844294</millis>
+  <sequence>122</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_BackToHomepage&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:04</date>
+  <millis>1657353844296</millis>
+  <sequence>123</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_BackToHomepage&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:04</date>
+  <millis>1657353844297</millis>
+  <sequence>124</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_BackToHomepage&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">36</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:04</date>
+  <millis>1657353844506</millis>
+  <sequence>128</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:05</date>
+  <millis>1657353845100</millis>
+  <sequence>129</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_BackToHomepage&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:05</date>
+  <millis>1657353845101</millis>
+  <sequence>130</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_BackToHomepage&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:05</date>
+  <millis>1657353845102</millis>
+  <sequence>131</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Add to Cart/TC - Add to cart valid By search button</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:05</date>
+  <millis>1657353845103</millis>
+  <sequence>132</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Add to Cart/TC - Add to cart valid By search button</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: true,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:05</date>
+  <millis>1657353845118</millis>
+  <sequence>133</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Add to Cart/TC - Add to cart invalid with 0 item</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/Add to Cart/TC - Add to cart invalid with 0 item</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Add to Cart/TC - Add to cart invalid with 0 item</property>
+  <property name="source">C:\BTDPKatalon\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\Test Cases\Add to Cart\TC - Add to cart invalid with 0 item.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:06</date>
+  <millis>1657353846189</millis>
+  <sequence>135</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startExistingApplication(&amp;quot;com.solodroid.solomerce&amp;quot;, STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:17</date>
+  <millis>1657353857561</millis>
+  <sequence>138</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumVersion = 1.22.3</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">1.22.3</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:17</date>
+  <millis>1657353857562</millis>
+  <sequence>139</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;1.22.3&amp;quot;}},&amp;quot;sessionId&amp;quot;:null,&amp;quot;status&amp;quot;:0}</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:17</date>
+  <millis>1657353857572</millis>
+  <sequence>140</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceId = 192.168.84.103:5555</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">192.168.84.103:5555</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:17</date>
+  <millis>1657353857574</millis>
+  <sequence>141</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceName =  New Google Nexus 5 (Android 6.0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName"> New Google Nexus 5 (Android 6.0)</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:17</date>
+  <millis>1657353857576</millis>
+  <sequence>142</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceModel = New Google Nexus 5</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">New Google Nexus 5</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:17</date>
+  <millis>1657353857576</millis>
+  <sequence>143</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceManufacturer = </message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:17</date>
+  <millis>1657353857577</millis>
+  <sequence>144</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:17</date>
+  <millis>1657353857578</millis>
+  <sequence>145</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOSVersion = 6.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">6.0</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:18</date>
+  <millis>1657353858963</millis>
+  <sequence>147</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting app with application ID: &amp;apos;com.solodroid.solomerce&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:338)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:332)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$1.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword$_startApplication_closure1.doCall(StartExistingApplicationKeyword.groovy:42)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword$_startApplication_closure1.doCall(StartExistingApplicationKeyword.groovy)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain.runKeyword(MobileKeywordMain.groovy:21)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword.startApplication(StartExistingApplicationKeyword.groovy:43)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword.execute(StartExistingApplicationKeyword.groovy:34)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords.startExistingApplication(MobileBuiltInKeywords.groovy:113)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords$startExistingApplication.call(Unknown Source)
+TC - Add to cart invalid with 0 item.run(TC - Add to cart invalid with 0 item:20)
+</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:18</date>
+  <millis>1657353858965</millis>
+  <sequence>148</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : startExistingApplication(&amp;quot;com.solodroid.solomerce&amp;quot;, STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:18</date>
+  <millis>1657353858966</millis>
+  <sequence>149</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Homepage/img_MiniDigital&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:19</date>
+  <millis>1657353859168</millis>
+  <sequence>153</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:20</date>
+  <millis>1657353860527</millis>
+  <sequence>154</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Homepage/img_MiniDigital&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:20</date>
+  <millis>1657353860529</millis>
+  <sequence>155</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Homepage/img_MiniDigital&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:20</date>
+  <millis>1657353860529</millis>
+  <sequence>156</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:20</date>
+  <millis>1657353860719</millis>
+  <sequence>160</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:22</date>
+  <millis>1657353862605</millis>
+  <sequence>161</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_ADD TO CART&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:22</date>
+  <millis>1657353862608</millis>
+  <sequence>162</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:22</date>
+  <millis>1657353862608</millis>
+  <sequence>163</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Add to Cart/setText_NumberofOrder&amp;quot;), &amp;quot;0&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:22</date>
+  <millis>1657353862820</millis>
+  <sequence>167</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:24</date>
+  <millis>1657353864217</millis>
+  <sequence>168</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;0&amp;apos; has been set to element &amp;apos;Object Repository/Add to Cart/setText_NumberofOrder&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:24</date>
+  <millis>1657353864219</millis>
+  <sequence>169</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Add to Cart/setText_NumberofOrder&amp;quot;), &amp;quot;0&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:24</date>
+  <millis>1657353864219</millis>
+  <sequence>170</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_AddNumberofOrder&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">28</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:24</date>
+  <millis>1657353864387</millis>
+  <sequence>174</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:24</date>
+  <millis>1657353864822</millis>
+  <sequence>175</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_AddNumberofOrder&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:24</date>
+  <millis>1657353864824</millis>
+  <sequence>176</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_AddNumberofOrder&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:24</date>
+  <millis>1657353864825</millis>
+  <sequence>177</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_BackToHomepage&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:25</date>
+  <millis>1657353865035</millis>
+  <sequence>181</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:25</date>
+  <millis>1657353865518</millis>
+  <sequence>182</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_BackToHomepage&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:25</date>
+  <millis>1657353865519</millis>
+  <sequence>183</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_BackToHomepage&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:25</date>
+  <millis>1657353865519</millis>
+  <sequence>184</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Add to Cart/TC - Add to cart invalid with 0 item</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:25</date>
+  <millis>1657353865521</millis>
+  <sequence>185</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Add to Cart/TC - Add to cart invalid with 0 item</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: true,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:25</date>
+  <millis>1657353865536</millis>
+  <sequence>186</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Add to Cart/TC - Add to cart invalid with over item</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/Add to Cart/TC - Add to cart invalid with over item</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Add to Cart/TC - Add to cart invalid with over item</property>
+  <property name="source">C:\BTDPKatalon\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\Test Cases\Add to Cart\TC - Add to cart invalid with over item.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:26</date>
+  <millis>1657353866545</millis>
+  <sequence>188</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startExistingApplication(&amp;quot;com.solodroid.solomerce&amp;quot;, STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:37</date>
+  <millis>1657353877865</millis>
+  <sequence>191</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumVersion = 1.22.3</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">1.22.3</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:37</date>
+  <millis>1657353877866</millis>
+  <sequence>192</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;1.22.3&amp;quot;}},&amp;quot;sessionId&amp;quot;:null,&amp;quot;status&amp;quot;:0}</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:37</date>
+  <millis>1657353877875</millis>
+  <sequence>193</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceId = 192.168.84.103:5555</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">192.168.84.103:5555</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:37</date>
+  <millis>1657353877876</millis>
+  <sequence>194</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceName =  New Google Nexus 5 (Android 6.0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName"> New Google Nexus 5 (Android 6.0)</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:37</date>
+  <millis>1657353877877</millis>
+  <sequence>195</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceModel = New Google Nexus 5</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">New Google Nexus 5</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:37</date>
+  <millis>1657353877878</millis>
+  <sequence>196</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceManufacturer = </message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:37</date>
+  <millis>1657353877879</millis>
+  <sequence>197</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:37</date>
+  <millis>1657353877880</millis>
+  <sequence>198</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOSVersion = 6.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">6.0</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:39</date>
+  <millis>1657353879338</millis>
+  <sequence>200</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting app with application ID: &amp;apos;com.solodroid.solomerce&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:338)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:332)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$1.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword$_startApplication_closure1.doCall(StartExistingApplicationKeyword.groovy:42)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword$_startApplication_closure1.doCall(StartExistingApplicationKeyword.groovy)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain.runKeyword(MobileKeywordMain.groovy:21)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword.startApplication(StartExistingApplicationKeyword.groovy:43)
+com.kms.katalon.core.mobile.keyword.builtin.StartExistingApplicationKeyword.execute(StartExistingApplicationKeyword.groovy:34)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords.startExistingApplication(MobileBuiltInKeywords.groovy:113)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords$startExistingApplication.call(Unknown Source)
+TC - Add to cart invalid with over item.run(TC - Add to cart invalid with over item:20)
+</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:39</date>
+  <millis>1657353879340</millis>
+  <sequence>201</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : startExistingApplication(&amp;quot;com.solodroid.solomerce&amp;quot;, STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:39</date>
+  <millis>1657353879341</millis>
+  <sequence>202</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Homepage/img_AppleWatch&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:39</date>
+  <millis>1657353879548</millis>
+  <sequence>206</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:40</date>
+  <millis>1657353880902</millis>
+  <sequence>207</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Homepage/img_AppleWatch&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:40</date>
+  <millis>1657353880904</millis>
+  <sequence>208</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Homepage/img_AppleWatch&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:40</date>
+  <millis>1657353880904</millis>
+  <sequence>209</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:41</date>
+  <millis>1657353881111</millis>
+  <sequence>213</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:43</date>
+  <millis>1657353883634</millis>
+  <sequence>214</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_ADD TO CART&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:43</date>
+  <millis>1657353883635</millis>
+  <sequence>215</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:43</date>
+  <millis>1657353883635</millis>
+  <sequence>216</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Add to Cart/setText_NumberofOrder&amp;quot;), &amp;quot;50&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:43</date>
+  <millis>1657353883840</millis>
+  <sequence>220</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:45</date>
+  <millis>1657353885245</millis>
+  <sequence>221</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;50&amp;apos; has been set to element &amp;apos;Object Repository/Add to Cart/setText_NumberofOrder&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:45</date>
+  <millis>1657353885246</millis>
+  <sequence>222</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Add to Cart/setText_NumberofOrder&amp;quot;), &amp;quot;50&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:45</date>
+  <millis>1657353885247</millis>
+  <sequence>223</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Add to Cart/btn_AddNumberofOrder&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">28</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:45</date>
+  <millis>1657353885424</millis>
+  <sequence>227</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:45</date>
+  <millis>1657353885850</millis>
+  <sequence>228</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Add to Cart/btn_AddNumberofOrder&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:45</date>
+  <millis>1657353885852</millis>
+  <sequence>229</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Add to Cart/btn_AddNumberofOrder&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:45</date>
+  <millis>1657353885852</millis>
+  <sequence>230</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeApplication()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:47</date>
+  <millis>1657353887262</millis>
+  <sequence>231</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Close app successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.CloseApplicationKeyword.closeApplication</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2022-07-09T15:04:47</date>
+  <millis>1657353887263</millis>
+  <sequence>232</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeApplication()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:47</date>
+  <millis>1657353887263</millis>
+  <sequence>233</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Add to Cart/TC - Add to cart invalid with over item</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:47</date>
+  <millis>1657353887264</millis>
+  <sequence>234</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Add to Cart/TC - Add to cart invalid with over item</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: true,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2022-07-09T15:04:47</date>
+  <millis>1657353887265</millis>
+  <sequence>235</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:48</date>
+  <millis>1657353888040</millis>
+  <sequence>545</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: C:\BTDPKatalon\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\Reports\20220709_150300\TS - Add to Cart\20220709_150300...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:48</date>
+  <millis>1657353888174</millis>
+  <sequence>546</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:48</date>
+  <millis>1657353888175</millis>
+  <sequence>547</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: C:\BTDPKatalon\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\Reports\20220709_150300\TS - Add to Cart\20220709_150300...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:48</date>
+  <millis>1657353888246</millis>
+  <sequence>548</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:48</date>
+  <millis>1657353888792</millis>
+  <sequence>550</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2022-07-09T15:04:48</date>
+  <millis>1657353888820</millis>
+  <sequence>551</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/TS - Add to Cart</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Delete Order History</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6780e73-4f83-43be-8dc2-3cd60fbbbdf9</testCaseGuid>
+</TestCaseEntity>

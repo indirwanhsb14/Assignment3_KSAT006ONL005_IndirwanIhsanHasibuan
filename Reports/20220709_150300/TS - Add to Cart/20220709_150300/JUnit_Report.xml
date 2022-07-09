@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS - Add to Cart" time="103.181" tests="4" failures="0" errors="0">
+   <testsuite name="TS - Add to Cart" tests="4" failures="0" errors="0" time="103.181" skipped="0" timestamp="2022-07-09 15:03:04" hostname="095060 - LAPTOP-BRAVO08.bfi.co.id" id="Test Suites/TS - Add to Cart">
+      <properties>
+         <property name="deviceName" value=" New Google Nexus 5 (Android 6.0)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\BTDPKatalon\\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\\Reports\\20220709_150300\\TS - Add to Cart\\20220709_150300"/>
+         <property name="logFiles" value="C:\\BTDPKatalon\\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\\Reports\\20220709_150300\\TS - Add to Cart\\20220709_150300\\appium.log, C:\\BTDPKatalon\\Assignment3_KSAT006ONL005_IndirwanIhsanHasibuan\\Reports\\20220709_150300\\TS - Add to Cart\\20220709_150300\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="095060 - LAPTOP-BRAVO08.bfi.co.id"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.3.5.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="New Google Nexus 5"/>
+         <property name="hostAddress" value="192.168.0.101"/>
+         <property name="deviceManufacturer" value=""/>
+         <property name="deviceId" value="192.168.84.103:5555"/>
+         <property name="deviceName" value=" New Google Nexus 5 (Android 6.0)"/>
+         <property name="deviceOSVersion" value="6.0"/>
+      </properties>
+      <testcase name="Test Cases/Add to Cart/TC - Add to cart valid" time="35.356" classname="Test Cases/Add to Cart/TC - Add to cart valid" status="PASSED">
+         <system-out><![CDATA[2022-07-09 15:03:04 - [TEST_CASE][PASSED] - Test Cases/Add to Cart/TC - Add to cart valid: Test Cases/Add to Cart/TC - Add to cart valid
+
+2022-07-09 15:03:04 - [TEST_STEP][PASSED] - startExistingApplication("com.solodroid.solomerce", STOP_ON_FAILURE): Starting app with application ID: 'com.solodroid.solomerce'
+
+2022-07-09 15:03:05 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2022-07-09 15:03:06 - [MESSAGE][INFO] - Appium server started on port 50,944
+
+2022-07-09 15:03:27 - [MESSAGE][PASSED] - Starting app with application ID: 'com.solodroid.solomerce'
+
+2022-07-09 15:03:27 - [TEST_STEP][PASSED] - tap(findTestObject("Homepage/img_Samsung"), 0): Tapped on element 'Object Repository/Homepage/img_Samsung'
+
+2022-07-09 15:03:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:03:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Homepage/img_Samsung'
+
+2022-07-09 15:03:33 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_ADD TO CART"), 0): Tapped on element 'Object Repository/Add to Cart/btn_ADD TO CART'
+
+2022-07-09 15:03:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:03:36 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_ADD TO CART'
+
+2022-07-09 15:03:36 - [TEST_STEP][PASSED] - setText(findTestObject("Add to Cart/setText_NumberofOrder"), "1", 0): Text '1' has been set to element 'Object Repository/Add to Cart/setText_NumberofOrder'
+
+2022-07-09 15:03:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:03:38 - [MESSAGE][PASSED] - Text '1' has been set to element 'Object Repository/Add to Cart/setText_NumberofOrder'
+
+2022-07-09 15:03:38 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_AddNumberofOrder"), 0): Tapped on element 'Object Repository/Add to Cart/btn_AddNumberofOrder'
+
+2022-07-09 15:03:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:03:38 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_AddNumberofOrder'
+
+2022-07-09 15:03:38 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_BackToHomepage"), 0): Tapped on element 'Object Repository/Add to Cart/btn_BackToHomepage'
+
+2022-07-09 15:03:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:03:39 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_BackToHomepage']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Add to Cart/TC - Add to cart valid By search button" time="25.316" classname="Test Cases/Add to Cart/TC - Add to cart valid By search button" status="PASSED">
+         <system-out><![CDATA[2022-07-09 15:03:39 - [TEST_CASE][PASSED] - Test Cases/Add to Cart/TC - Add to cart valid By search button: Test Cases/Add to Cart/TC - Add to cart valid By search button
+
+2022-07-09 15:03:41 - [TEST_STEP][PASSED] - startExistingApplication("com.solodroid.solomerce", STOP_ON_FAILURE): Starting app with application ID: 'com.solodroid.solomerce'
+
+2022-07-09 15:03:54 - [MESSAGE][PASSED] - Starting app with application ID: 'com.solodroid.solomerce'
+
+2022-07-09 15:03:54 - [TEST_STEP][PASSED] - tap(findTestObject("Homepage/btn_Search"), 0): Tapped on element 'Object Repository/Homepage/btn_Search'
+
+2022-07-09 15:03:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:03:56 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Homepage/btn_Search'
+
+2022-07-09 15:03:56 - [TEST_STEP][PASSED] - setText(findTestObject("Homepage/setText_Search"), "mini panda", 5): Text 'mini panda' has been set to element 'Object Repository/Homepage/setText_Search'
+
+2022-07-09 15:03:58 - [MESSAGE][PASSED] - Text 'mini panda' has been set to element 'Object Repository/Homepage/setText_Search'
+
+2022-07-09 15:03:58 - [TEST_STEP][PASSED] - tap(findTestObject("Homepage/img_MiniPanda"), 0): Tapped on element 'Object Repository/Homepage/img_MiniPanda'
+
+2022-07-09 15:03:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:03:59 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Homepage/img_MiniPanda'
+
+2022-07-09 15:03:59 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_ADD TO CART"), 0): Tapped on element 'Object Repository/Add to Cart/btn_ADD TO CART'
+
+2022-07-09 15:03:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:01 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_ADD TO CART'
+
+2022-07-09 15:04:01 - [TEST_STEP][PASSED] - setText(findTestObject("Add to Cart/setText_NumberofOrder"), "3", 0): Text '3' has been set to element 'Object Repository/Add to Cart/setText_NumberofOrder'
+
+2022-07-09 15:04:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:02 - [MESSAGE][PASSED] - Text '3' has been set to element 'Object Repository/Add to Cart/setText_NumberofOrder'
+
+2022-07-09 15:04:02 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_AddNumberofOrder"), 0): Tapped on element 'Object Repository/Add to Cart/btn_AddNumberofOrder'
+
+2022-07-09 15:04:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:03 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_AddNumberofOrder'
+
+2022-07-09 15:04:03 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_BackToHomepage"), 0): Tapped on element 'Object Repository/Add to Cart/btn_BackToHomepage'
+
+2022-07-09 15:04:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:04 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_BackToHomepage'
+
+2022-07-09 15:04:04 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_BackToHomepage"), 0): Tapped on element 'Object Repository/Add to Cart/btn_BackToHomepage'
+
+2022-07-09 15:04:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:05 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_BackToHomepage']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Add to Cart/TC - Add to cart invalid with 0 item" time="20.403" classname="Test Cases/Add to Cart/TC - Add to cart invalid with 0 item" status="PASSED">
+         <system-out><![CDATA[2022-07-09 15:04:05 - [TEST_CASE][PASSED] - Test Cases/Add to Cart/TC - Add to cart invalid with 0 item: Test Cases/Add to Cart/TC - Add to cart invalid with 0 item
+
+2022-07-09 15:04:06 - [TEST_STEP][PASSED] - startExistingApplication("com.solodroid.solomerce", STOP_ON_FAILURE): Starting app with application ID: 'com.solodroid.solomerce'
+
+2022-07-09 15:04:18 - [MESSAGE][PASSED] - Starting app with application ID: 'com.solodroid.solomerce'
+
+2022-07-09 15:04:18 - [TEST_STEP][PASSED] - tap(findTestObject("Homepage/img_MiniDigital"), 0): Tapped on element 'Object Repository/Homepage/img_MiniDigital'
+
+2022-07-09 15:04:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:20 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Homepage/img_MiniDigital'
+
+2022-07-09 15:04:20 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_ADD TO CART"), 0): Tapped on element 'Object Repository/Add to Cart/btn_ADD TO CART'
+
+2022-07-09 15:04:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:22 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_ADD TO CART'
+
+2022-07-09 15:04:22 - [TEST_STEP][PASSED] - setText(findTestObject("Add to Cart/setText_NumberofOrder"), "0", 0): Text '0' has been set to element 'Object Repository/Add to Cart/setText_NumberofOrder'
+
+2022-07-09 15:04:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:24 - [MESSAGE][PASSED] - Text '0' has been set to element 'Object Repository/Add to Cart/setText_NumberofOrder'
+
+2022-07-09 15:04:24 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_AddNumberofOrder"), 0): Tapped on element 'Object Repository/Add to Cart/btn_AddNumberofOrder'
+
+2022-07-09 15:04:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_AddNumberofOrder'
+
+2022-07-09 15:04:24 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_BackToHomepage"), 0): Tapped on element 'Object Repository/Add to Cart/btn_BackToHomepage'
+
+2022-07-09 15:04:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:25 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_BackToHomepage']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Add to Cart/TC - Add to cart invalid with over item" time="21.728" classname="Test Cases/Add to Cart/TC - Add to cart invalid with over item" status="PASSED">
+         <system-out><![CDATA[2022-07-09 15:04:25 - [TEST_CASE][PASSED] - Test Cases/Add to Cart/TC - Add to cart invalid with over item: Test Cases/Add to Cart/TC - Add to cart invalid with over item
+
+2022-07-09 15:04:26 - [TEST_STEP][PASSED] - startExistingApplication("com.solodroid.solomerce", STOP_ON_FAILURE): Starting app with application ID: 'com.solodroid.solomerce'
+
+2022-07-09 15:04:39 - [MESSAGE][PASSED] - Starting app with application ID: 'com.solodroid.solomerce'
+
+2022-07-09 15:04:39 - [TEST_STEP][PASSED] - tap(findTestObject("Homepage/img_AppleWatch"), 0): Tapped on element 'Object Repository/Homepage/img_AppleWatch'
+
+2022-07-09 15:04:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Homepage/img_AppleWatch'
+
+2022-07-09 15:04:40 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_ADD TO CART"), 0): Tapped on element 'Object Repository/Add to Cart/btn_ADD TO CART'
+
+2022-07-09 15:04:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:43 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_ADD TO CART'
+
+2022-07-09 15:04:43 - [TEST_STEP][PASSED] - setText(findTestObject("Add to Cart/setText_NumberofOrder"), "50", 0): Text '50' has been set to element 'Object Repository/Add to Cart/setText_NumberofOrder'
+
+2022-07-09 15:04:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:45 - [MESSAGE][PASSED] - Text '50' has been set to element 'Object Repository/Add to Cart/setText_NumberofOrder'
+
+2022-07-09 15:04:45 - [TEST_STEP][PASSED] - tap(findTestObject("Add to Cart/btn_AddNumberofOrder"), 0): Tapped on element 'Object Repository/Add to Cart/btn_AddNumberofOrder'
+
+2022-07-09 15:04:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-09 15:04:45 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Add to Cart/btn_AddNumberofOrder'
+
+2022-07-09 15:04:45 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-07-09 15:04:47 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-07-09 15:03:04 - [TEST_SUITE][PASSED] - TS - Add to Cart: Test Cases/Add to Cart/TC - Add to cart invalid with over item]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
